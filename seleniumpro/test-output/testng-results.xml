@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Reading File]]>
+    </line>
+    <line>
+      <![CDATA[Open Browser]]>
+    </line>
+    <line>
+      <![CDATA[Open Website]]>
+    </line>
+    <line>
+      <![CDATA[Enter Name]]>
+    </line>
+    <line>
+      <![CDATA[Assetion if found then continue]]>
+    </line>
+    <line>
+      <![CDATA[Search Name]]>
+    </line>
+    <line>
+      <![CDATA[Wait until element to be clickable for 120 sec]]>
+    </line>
+    <line>
+      <![CDATA[Browser close after 5 seconds]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13309" started-at="2017-03-22T21:42:03Z" finished-at="2017-03-22T21:42:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13309" started-at="2017-03-22T21:42:03Z" finished-at="2017-03-22T21:42:17Z">
+      <class name="com.selenium.hardik.seleniumpro.googlesearch">
+        <test-method status="PASS" signature="namefinder()[pri:0, instance:com.selenium.hardik.seleniumpro.googlesearch@66a3ffec]" name="namefinder" duration-ms="13294" started-at="2017-03-23T03:12:03Z" finished-at="2017-03-23T03:12:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading File]]>
+            </line>
+            <line>
+              <![CDATA[Open Browser]]>
+            </line>
+            <line>
+              <![CDATA[Open Website]]>
+            </line>
+            <line>
+              <![CDATA[Enter Name]]>
+            </line>
+            <line>
+              <![CDATA[Assetion if found then continue]]>
+            </line>
+            <line>
+              <![CDATA[Search Name]]>
+            </line>
+            <line>
+              <![CDATA[Wait until element to be clickable for 120 sec]]>
+            </line>
+            <line>
+              <![CDATA[Browser close after 5 seconds]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- namefinder -->
+      </class> <!-- com.selenium.hardik.seleniumpro.googlesearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
